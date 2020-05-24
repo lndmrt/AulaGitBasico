@@ -1,6 +1,4 @@
 Curso
 Teste
 
-Alteração de textouytyutyutuynbvnbvnbv
-fdsfjhdsf
-dflsldhfjkdsh
+Alteração de textouytyutyutuy
